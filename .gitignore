@@ -1,3 +1,8 @@
+## User set
+.vagrant/
+secrets/
+
+## Github Ruby defaults
 *.gem
 *.rbc
 /.config
